@@ -1,0 +1,6 @@
+[submodule "nsfw_model"]
+	path = nsfw_model
+	url = https://github.com/GantMan/nsfw_model.git
+[submodule "NudeNet"]
+	path = NudeNet
+	url = https://github.com/notAI-tech/NudeNet.git
